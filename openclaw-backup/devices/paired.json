@@ -1,0 +1,60 @@
+{
+  "8dcd2d7dcdc42a40f3a151337bdd4168b47292a0ee69a5f8659633de11e7c934": {
+    "deviceId": "8dcd2d7dcdc42a40f3a151337bdd4168b47292a0ee69a5f8659633de11e7c934",
+    "publicKey": "qm5ztC8V5N-ZoMBkvlq2P3HLTu5QqA2UQhlZwGisPzI",
+    "displayName": "kimi-bridge-connector",
+    "platform": "linux",
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "SOY-2eEY65JSQgdvKeYuKLLKWrk6VrgEMar148Dazow",
+        "role": "operator",
+        "scopes": [
+          "operator.admin"
+        ],
+        "createdAtMs": 1771328820200
+      }
+    },
+    "createdAtMs": 1771328820200,
+    "approvedAtMs": 1771328820200
+  },
+  "6ddfaaf39ebab50e42c192c7a855f70e47d4a983dc73802ee63df898db4a139c": {
+    "deviceId": "6ddfaaf39ebab50e42c192c7a855f70e47d4a983dc73802ee63df898db4a139c",
+    "publicKey": "Azue3aYR9Y9jaqx5H-17zi76BsB0LKkbVWnSXXiVIxQ",
+    "platform": "linux",
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "kpNDfvePdFDfAr5thHc1gZ4kQkJ9J0Yr0ptC9VXXDgE",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1771328833210
+      }
+    },
+    "createdAtMs": 1771328833210,
+    "approvedAtMs": 1771328833210,
+    "displayName": "agent"
+  }
+}
