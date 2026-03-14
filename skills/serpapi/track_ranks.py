@@ -7,6 +7,7 @@ Monitors Google rankings for target keywords
 import requests
 import json
 import os
+import time
 from datetime import datetime
 
 # Configuration
@@ -225,6 +226,10 @@ def main():
             print(f"   ✅ Position: #{result['position']}")
         else:
             print(f"   ❌ Not ranking")
+        
+        # Add delay between API calls to avoid rate limits
+        if i < len(KEYWORDS):
+            time.sleep(5)
     
     # Load previous rankings
     previous = load_previous_rankings()
