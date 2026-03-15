@@ -1,5 +1,12 @@
 # Corrections Log
 
+## 2026-03-15 - Weekly Backup Error
+- [17:02] BACKUP: GitHub Push Protection blocked backup due to exposed Atlassian API Token in self-improving/domains/trello.md
+  Type: backup_error
+  Error: GH013 - Repository rule violations, push declined due to secret scanning
+  Lesson: Never store API credentials in plaintext in Git-tracked files. Use environment files in ~/.openclaw/.secrets/ and reference them instead.
+  Fix: Removed plaintext credentials, replaced with reference to secrets file location, amended commit, and re-pushed successfully.
+
 ## 2026-03-15 - PageSpeed Performance Issues
 - [00:36] PERFORMANCE: Burnaby page mobile LCP = 13.56s (target: <2.5s)
   Type: performance_issue
