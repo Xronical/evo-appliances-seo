@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-03-15T07:48:39.432890",
+  "period_days": 7,
+  "property_id": "309639007",
+  "overview": {
+    "sessions": 59,
+    "totalUsers": 42,
+    "newUsers": 37,
+    "bounceRate": 52.54,
+    "avgSessionDuration": 206.73,
+    "conversions": 0
+  },
+  "sources": [
+    {
+      "channel": "Direct",
+      "sessions": 31,
+      "users": 20
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 16,
+      "users": 14
+    },
+    {
+      "channel": "Referral",
+      "sessions": 6,
+      "users": 2
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 5,
+      "users": 5
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "top_pages": [
+    {
+      "title": "Appliance Repair Vancouver | Same-Day Service | Evo Appliances",
+      "path": "/",
+      "sessions": 33,
+      "users": 22
+    },
+    {
+      "title": "Appliance Repair Vancouver | Same-Day Service | (604) 359-2837",
+      "path": "/",
+      "sessions": 8,
+      "users": 7
+    },
+    {
+      "title": "Comprehensive Evo Appliance Repair Services",
+      "path": "/services/",
+      "sessions": 3,
+      "users": 3
+    },
+    {
+      "title": "Dryer Repair Vancouver | Same-Day Service | (604) 200-3054 \u2013 Evo Appliance Repair",
+      "path": "/dryer-repair-vancouver-2/",
+      "sessions": 3,
+      "users": 3
+    },
+    {
+      "title": "5 Signs Your Refrigerator Needs Professional Repair \u2013 Evo Appliance Repair",
+      "path": "/refrigerator-repair-signs-vancouver/",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "title": "Company History | Evo Appliance Repair Vancouver",
+      "path": "/company-history/",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "title": "Evo Appliance Repair Blog | Home Appliance Repair Experts",
+      "path": "/blog/",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "title": "Maytag Dishwasher Error Codes | Complete Guide",
+      "path": "/maytag-dishwasher-error-codes/",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "title": "Washer Repair Service Vancouver, Coquitlam, Burnaby, Surrey",
+      "path": "/washer-repair/",
+      "sessions": 2,
+      "users": 1
+    },
+    {
+      "title": "Appliance Repair Technician Jobs | Vancouver",
+      "path": "/appliance-repair-technician-jobs/",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "devices": [
+    {
+      "device": "desktop",
+      "sessions": 44
+    },
+    {
+      "device": "mobile",
+      "sessions": 16
+    }
+  ]
+}

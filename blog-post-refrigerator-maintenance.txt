@@ -1,0 +1,243 @@
+<!-- wp:heading {"level":1} -->
+<h1>5 Essential Refrigerator Maintenance Tips Every Vancouver Homeowner Should Know</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your refrigerator is the hardest-working appliance in your Vancouver home, running 24/7 to keep your food fresh and safe. But like any machine, it needs regular care to perform at its best. At <strong>Evo Appliances</strong>, we've seen countless refrigerator repairs that could have been prevented with simple maintenance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this guide, we'll share five essential refrigerator maintenance tips that can help you avoid costly repairs, extend your appliance's lifespan, and keep your energy bills low. Whether you live in a downtown Vancouver condo or a Burnaby family home, these tips apply to every refrigerator owner in the Lower Mainland.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Why Refrigerator Maintenance Matters in Vancouver</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Vancouver's unique coastal climate—with its high humidity and mild temperatures—can actually put extra strain on your refrigerator. Moisture in the air makes your fridge work harder to maintain consistent temperatures, and seasonal temperature fluctuations can affect performance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regular maintenance isn't just about preventing breakdowns—it's also about:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li><strong>Energy efficiency:</strong> A well-maintained fridge uses 10-15% less electricity</li>
+<li><strong>Food safety:</strong> Proper temperatures prevent bacterial growth and food spoilage</li>
+<li><strong>Longevity:</strong> Regular care can add 3-5 years to your refrigerator's life</li>
+<li><strong>Cost savings:</strong> Preventing major repairs saves hundreds of dollars</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Tip 1: Clean the Condenser Coils Every 6 Months</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The condenser coils—usually located at the back or bottom of your refrigerator—release heat from inside the unit. When these coils get covered in dust, pet hair, and kitchen grease, your refrigerator has to work much harder to stay cool.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>How to clean them:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Unplug the refrigerator or turn off the circuit breaker</li>
+<li>Locate the coils (check your manual if unsure)</li>
+<li>Use a vacuum with a brush attachment to remove loose debris</li>
+<li>For stubborn buildup, use a coil cleaning brush or soft brush</li>
+<li>Wipe down with a damp cloth if needed</li>
+<li>Plug back in and listen for the compressor to start normally</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Pro tip:</strong> If you have pets that shed, clean the coils every 3-4 months instead of every 6.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Tip 2: Check and Replace Door Seals (Gaskets)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The rubber door seals (gaskets) create an airtight barrier that keeps cold air in and warm air out. Over time, these seals can crack, tear, or lose their flexibility—allowing cold air to escape and forcing your refrigerator to run constantly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>How to test your seals:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Close the door on a dollar bill or piece of paper</li>
+<li>Try to pull it out. If it slides out easily, your seal is leaking</li>
+<li>Test multiple spots around the door</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>How to maintain them:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Clean monthly with warm, soapy water and a soft cloth</li>
+<li>Dry thoroughly to prevent mold growth</li>
+<li>Apply a thin layer of petroleum jelly to keep rubber supple</li>
+<li>Replace gaskets if you notice cracks, tears, or persistent leaks</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Tip 3: Maintain Proper Temperature Settings</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Setting your refrigerator to the right temperature isn't just about food safety—it's about efficiency too. The wrong settings can cause excessive energy consumption and unnecessary wear on components.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Recommended temperatures:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li><strong>Refrigerator compartment:</strong> 37°F to 40°F (3°C to 4°C)</li>
+<li><strong>Freezer compartment:</strong> 0°F (-18°C)</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Best practices:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Use an appliance thermometer to verify actual temperatures</li>
+<li>Don't overfill—air needs to circulate for even cooling</li>
+<li>Keep the freezer about 75% full for optimal efficiency</li>
+<li>Avoid placing hot food directly in the refrigerator</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Tip 4: Clean the Drip Pan and Drain Hole</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your refrigerator has a defrost system that melts frost from the evaporator coils. The resulting water drains through a small hole into a drip pan, where it evaporates. If this drain gets clogged or the pan gets dirty, you could face water leaks and unpleasant odors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Signs of a clogged drain:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Water pooling at the bottom of the refrigerator</li>
+<li>Ice buildup in the freezer</li>
+<li>Musty or moldy smells</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>How to clean it:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Locate the drain hole (usually at the back of the fridge interior)</li>
+<li>Use a turkey baster to flush warm water through the drain</li>
+<li>For stubborn clogs, use a pipe cleaner or flexible drain brush</li>
+<li>Remove and clean the drip pan (usually at the bottom front or back)</li>
+<li>Replace everything and check for proper drainage</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Tip 5: Keep the Exterior and Interior Clean</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Regular cleaning isn't just about aesthetics—it prevents odors, maintains efficiency, and helps you spot potential problems early.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Interior cleaning routine (monthly):</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Remove all food and check expiration dates</li>
+<li>Remove shelves and drawers for washing</li>
+<li>Wipe down all surfaces with a solution of warm water and baking soda</li>
+<li>Dry thoroughly before replacing shelves</li>
+<li>Organize food with proper spacing for air circulation</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Exterior care:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Wipe stainless steel with a microfiber cloth and appropriate cleaner</li>
+<li>Clean the top of the refrigerator (dust accumulates quickly)</li>
+<li>Ensure 2-3 inches of clearance on all sides for ventilation</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2>When to Call a Professional</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>While regular maintenance prevents many issues, some problems require professional attention. Call Evo Appliances if you notice:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Strange noises (banging, clicking, or humming)</li>
+<li>Constant running without cycling off</li>
+<li>Water leaking that you can't trace to a simple drain clog</li>
+<li>Temperature inconsistencies despite proper settings</li>
+<li>Frost buildup in a frost-free model</li>
+<li>Your refrigerator is more than 10 years old and showing signs of wear</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Attempting DIY repairs on complex components like compressors, refrigerant lines, or electrical systems can be dangerous and may void your warranty. Our licensed technicians have the tools and expertise to diagnose and fix problems quickly and safely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2>Conclusion: Small Steps, Big Savings</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Refrigerator maintenance doesn't have to be complicated or time-consuming. By following these five simple tips, you can keep your appliance running efficiently, prevent unexpected breakdowns, and save money on both repairs and energy bills.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Remember: an ounce of prevention is worth a pound of cure. Spending 30 minutes every few months on maintenance can save you hundreds of dollars and the headache of a broken refrigerator.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Need professional help with your refrigerator? Evo Appliances provides same-day appliance repair throughout Vancouver, Burnaby, Richmond, Surrey, and the entire Lower Mainland. Our experienced technicians service all major brands and models.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>📞 Call us today at (604) 200-3054 for fast, reliable refrigerator repair in Vancouver!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>---</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Evo Appliances | Licensed & Insured | Same-Day Service | Vancouver & Lower Mainland</em></p>
+<!-- /wp:paragraph -->

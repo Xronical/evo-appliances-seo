@@ -1,0 +1,67 @@
+{
+  "scraped_at": "2026-03-15T05:11:07.258580",
+  "competitors": [
+    {
+      "name": "appliance-repair-vancouver",
+      "url": "https://www.appliancerepairvancouver.ca/",
+      "scraped_at": "2026-03-15T05:10:44.618208",
+      "services": [
+        "Search"
+      ],
+      "pricing": [],
+      "contact_info": {},
+      "page_title": "Smart Shopping Guide for Home Appliances | SearchHounds",
+      "meta_description": "Buying home appliances is a major investment, and a little planning can save money and headaches. This guide explains what to prioritize, when to buy, and how to compare deals so you get long-lasting value.",
+      "attempts": [
+        {
+          "attempt": 1,
+          "proxy": "no",
+          "impersonate": "chrome",
+          "status": "success",
+          "services_found": 1
+        }
+      ]
+    },
+    {
+      "name": "vancouver-appliance-repair",
+      "url": "https://www.vancouverappliancerepair.ca/",
+      "scraped_at": "2026-03-15T05:10:48.753381",
+      "services": [
+        "Tell us whether you accept cookies"
+      ],
+      "pricing": [],
+      "contact_info": {},
+      "page_title": "Plesk Obsidian 18.0.76",
+      "meta_description": "",
+      "attempts": [
+        {
+          "attempt": 1,
+          "proxy": "no",
+          "impersonate": "chrome",
+          "status": "success",
+          "services_found": 1
+        }
+      ]
+    },
+    {
+      "name": "surrey-appliance-repair",
+      "url": "https://www.surreyappliancerepair.ca/",
+      "scraped_at": "2026-03-15T05:10:56.173194",
+      "services": [],
+      "pricing": [],
+      "contact_info": {},
+      "page_title": "Security Verification",
+      "meta_description": "",
+      "attempts": [
+        {
+          "attempt": 1,
+          "proxy": "no",
+          "impersonate": "chrome",
+          "status": "success",
+          "services_found": 0
+        }
+      ]
+    }
+  ],
+  "directories": []
+}

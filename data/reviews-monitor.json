@@ -1,0 +1,14 @@
+{
+  "scraped_at": "2026-03-15T05:10:00.781916",
+  "businesses": [
+    {
+      "business_name": "Appliance Repair Vancouver",
+      "source": "yelp",
+      "url": "https://www.yelp.com/biz/appliance-repair-vancouver",
+      "scraped_at": "2026-03-15T05:10:02.870212",
+      "total_reviews_found": 0,
+      "average_rating": 0,
+      "reviews": []
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "scraped_at": "2026-03-15T07:47:25.951464",
+  "period_days": 7,
+  "site": "https://evoappliances.ca/",
+  "top_queries": [
+    {
+      "query": "appliance repair burnaby",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 2.5,
+      "position": 37.6
+    },
+    {
+      "query": "evo appliance repair",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 5.26,
+      "position": 1.5
+    },
+    {
+      "query": "liebherr refrigerator service near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 33.33,
+      "position": 9
+    },
+    {
+      "query": "tv repair vancouver",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 100,
+      "position": 6
+    },
+    {
+      "query": "appliance installation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "appliance installation burnaby",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "appliance installation new westminster",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "appliance installation north vancouver",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 39.3
+    },
+    {
+      "query": "appliance installation richmond",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "appliance installation service vancouver",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "appliance installation vancouver",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 1.6
+    },
+    {
+      "query": "appliance installation west vancouver",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 25.2
+    },
+    {
+      "query": "appliance installer vancouver",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 28.2
+    },
+    {
+      "query": "appliance maintenance",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "appliance repair",
+      "clicks": 0,
+      "impressions": 297,
+      "ctr": 0,
+      "position": 1.8
+    },
+    {
+      "query": "appliance repair bunbury",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "appliance repair burnaby bc",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 56.4
+    },
+    {
+      "query": "appliance repair company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "appliance repair company in vancouver",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 20.5
+    },
+    {
+      "query": "appliance repair delta",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "appliance repair east vancouver",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 17.1
+    },
+    {
+      "query": "appliance repair in burnaby",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 58.7
+    },
+    {
+      "query": "appliance repair in vancouver",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 23.6
+    },
+    {
+      "query": "appliance repair in vancouver bc",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "appliance repair jobs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "appliance repair maple ridge",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.3
+    },
+    {
+      "query": "appliance repair miele",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "appliance repair near me",
+      "clicks": 0,
+      "impressions": 201,
+      "ctr": 0,
+      "position": 1.1
+    },
+    {
+      "query": "appliance repair north vancouver",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 50.2
+    },
+    {
+      "query": "appliance repair north vancouver bc",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 50.6
+    },
+    {
+      "query": "appliance repair pitt meadows",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 28.7
+    },
+    {
+      "query": "appliance repair richmond",
+      "clicks": 0,
+      "impressions": 155,
+      "ctr": 0,
+      "position": 7.7
+    },
+    {
+      "query": "appliance repair richmond bc",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "appliance repair samsung dryer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "appliance repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "appliance repair services near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "appliance repair services vancouver",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "appliance repair south vancouver",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "appliance repair surrey",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 49.4
+    },
+    {
+      "query": "appliance repair vancouver",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 18.4
+    },
+    {
+      "query": "appliance repair vancouver bc",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 13.6
+    },
+    {
+      "query": "appliance repair victoria",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "appliance repair west vancouver",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 28.0
+    },
+    {
+      "query": "appliance repairs surrey",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "appliance repairs surrey bc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "appliance service center vancouver",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "appliance technician",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 17.7
+    },
+    {
+      "query": "appliance thermador repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "appliance whirlpool repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "appliances repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "top_pages": [
+    {
+      "page": "https://evoappliances.ca/",
+      "clicks": 6,
+      "impressions": 1910,
+      "ctr": 0.31,
+      "position": 10.4
+    },
+    {
+      "page": "https://evoappliances.ca/blomberg-washer-repair/",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 5.0,
+      "position": 22.6
+    },
+    {
+      "page": "https://evoappliances.ca/company-history/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 100,
+      "position": 1
+    },
+    {
+      "page": "https://evoappliances.ca/liebherr-appliance-repair/",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 17.2
+    },
+    {
+      "page": "https://evoappliances.ca/maytag-dishwasher-error-codes/",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.81,
+      "position": 11.6
+    },
+    {
+      "page": "https://evoappliances.ca/about-us/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://evoappliances.ca/affordable-appliance-repair-in-vancouver-2026-pricing-guide-money-saving-tips/",
+      "clicks": 0,
+      "impressions": 117,
+      "ctr": 0,
+      "position": 11.4
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-care-during-the-holiday-season/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-burnaby/",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 55.3
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-coquitlam/",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 54.4
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-north-vancouver/",
+      "clicks": 0,
+      "impressions": 240,
+      "ctr": 0,
+      "position": 50.6
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-richmond/",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 53.5
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-technician-jobs/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 14.2
+    },
+    {
+      "page": "https://evoappliances.ca/appliance-repair-west-vancouver/",
+      "clicks": 0,
+      "impressions": 136,
+      "ctr": 0,
+      "position": 24.4
+    },
+    {
+      "page": "https://evoappliances.ca/appointment/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://evoappliances.ca/blomberg-appliance-repair/",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 29.0
+    },
+    {
+      "page": "https://evoappliances.ca/blomberg-fridge-repair/",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 14.9
+    },
+    {
+      "page": "https://evoappliances.ca/bosch-appliance-repair/",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "page": "https://evoappliances.ca/bosch-dishwasher-effective-cleaning-tips/",
+      "clicks": 0,
+      "impressions": 94,
+      "ctr": 0,
+      "position": 33.3
+    },
+    {
+      "page": "https://evoappliances.ca/bosch-error-codes/",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "page": "https://evoappliances.ca/contact-us/",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 34.1
+    },
+    {
+      "page": "https://evoappliances.ca/coupons-offer/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12.7
+    },
+    {
+      "page": "https://evoappliances.ca/dishwasher-repair-vancouver/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 57.8
+    },
+    {
+      "page": "https://evoappliances.ca/dryer-not-heating-heres-how-to-fix-it-fast-2025-guide/",
+      "clicks": 0,
+      "impressions": 117,
+      "ctr": 0,
+      "position": 28.0
+    },
+    {
+      "page": "https://evoappliances.ca/dryer-not-heating-heres-how-to-troubleshoot-before-calling-the-pros/",
+      "clicks": 0,
+      "impressions": 69,
+      "ctr": 0,
+      "position": 52.8
+    },
+    {
+      "page": "https://evoappliances.ca/dryer-repair-service/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 30.4
+    },
+    {
+      "page": "https://evoappliances.ca/dryer-vent-cleaning/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "page": "https://evoappliances.ca/electrolux-appliance-repair/",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 32.9
+    },
+    {
+      "page": "https://evoappliances.ca/fhiaba-appliance-repair/",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 20.2
+    },
+    {
+      "page": "https://evoappliances.ca/fisher-paykel-appliance-repair/",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 30.3
+    },
+    {
+      "page": "https://evoappliances.ca/fridge-repair/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "page": "https://evoappliances.ca/frigidaire-appliance-repair/",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "page": "https://evoappliances.ca/garburator-repair/",
+      "clicks": 0,
+      "impressions": 75,
+      "ctr": 0,
+      "position": 35.0
+    },
+    {
+      "page": "https://evoappliances.ca/ge-front-load-washer-not-starting/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 42.1
+    },
+    {
+      "page": "https://evoappliances.ca/home/",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 19.4
+    },
+    {
+      "page": "https://evoappliances.ca/how-long-do-appliances-last/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://evoappliances.ca/is-it-worth-fixing-old-appliances/",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 31.5
+    },
+    {
+      "page": "https://evoappliances.ca/lg-appliance-repair/",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 21.8
+    },
+    {
+      "page": "https://evoappliances.ca/main-street-appliance-repair/",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 11.8
+    },
+    {
+      "page": "https://evoappliances.ca/miele-appliance-repair/",
+      "clicks": 0,
+      "impressions": 249,
+      "ctr": 0,
+      "position": 27.9
+    },
+    {
+      "page": "https://evoappliances.ca/monogram-appliance-repair/",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "page": "https://evoappliances.ca/oven-repair/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://evoappliances.ca/oven-wont-heat-up-5-quick-fixes-to-try-before-calling-the-pros/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "page": "https://evoappliances.ca/privacy-policy/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://evoappliances.ca/property-management-appliance-repairs/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://evoappliances.ca/refrigerator-repair-vancouver/",
+      "clicks": 0,
+      "impressions": 245,
+      "ctr": 0,
+      "position": 54.9
+    },
+    {
+      "page": "https://evoappliances.ca/samsung-appliance-repair/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 47.9
+    },
+    {
+      "page": "https://evoappliances.ca/services/",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 6.8
+    },
+    {
+      "page": "https://evoappliances.ca/sub-zero-appliance-repair/",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 27.7
+    },
+    {
+      "page": "https://evoappliances.ca/surrey-appliance-repair/",
+      "clicks": 0,
+      "impressions": 213,
+      "ctr": 0,
+      "position": 49.7
+    }
+  ],
+  "comparison": {
+    "current": {
+      "clicks": 10,
+      "impressions": 4274,
+      "ctr": 0.23
+    },
+    "previous": {
+      "clicks": 16,
+      "impressions": 6878,
+      "ctr": 0.23
+    }
+  }
+}

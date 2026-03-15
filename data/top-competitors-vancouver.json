@@ -1,0 +1,254 @@
+{
+  "scraped_at": "2026-03-15T05:15:35.016048",
+  "target_location": "Vancouver, BC",
+  "competitors_analyzed": 5,
+  "competitors": [
+    {
+      "key": "vancouver-appliance-repair",
+      "name": "Vancouver Appliance Repair",
+      "scraped_at": "2026-03-15T05:14:40.996801",
+      "google_data": {
+        "search_term": "Vancouver Appliance Repair",
+        "scraped_at": "2026-03-15T05:14:44.680201",
+        "rating": null,
+        "review_count": null,
+        "highlights": []
+      },
+      "website_data": {
+        "name": "Vancouver Appliance Repair",
+        "url": "https://www.vancouverappliancerepair.ca/",
+        "scraped_at": "2026-03-15T05:14:44.684039",
+        "page_title": "Plesk Obsidian 18.0.76",
+        "meta_description": "",
+        "services": [],
+        "pricing_mentions": [],
+        "contact_info": {},
+        "headings": [
+          {
+            "level": "H3",
+            "text": "Tell us whether you accept cookies"
+          }
+        ],
+        "service_areas": []
+      },
+      "yelp_data": {
+        "name": "Vancouver Appliance Repair",
+        "yelp_url": "https://www.yelp.com/biz/vancouver-appliance-repair-vancouver-2",
+        "scraped_at": "2026-03-15T05:14:51.515605",
+        "rating": null,
+        "review_count": null,
+        "top_reviews": []
+      }
+    },
+    {
+      "key": "appliance-repair-vancouver",
+      "name": "Appliance Repair Vancouver",
+      "scraped_at": "2026-03-15T05:14:53.583096",
+      "google_data": {
+        "search_term": "Appliance Repair Vancouver",
+        "scraped_at": "2026-03-15T05:14:57.166357",
+        "rating": null,
+        "review_count": null,
+        "highlights": []
+      },
+      "website_data": {
+        "name": "Appliance Repair Vancouver",
+        "url": "https://www.appliancerepairvancouver.ca/",
+        "scraped_at": "2026-03-15T05:14:57.169809",
+        "page_title": "Smart Shopping Guide for Home Appliances | SearchHounds",
+        "meta_description": "Buying home appliances is a major investment, and a little planning can save money and headaches. This guide explains what to prioritize, when to buy, and how to compare deals so you get long-lasting value.",
+        "services": [],
+        "pricing_mentions": [],
+        "contact_info": {},
+        "headings": [
+          {
+            "level": "H1",
+            "text": "SearchHounds"
+          },
+          {
+            "level": "H1",
+            "text": "Smart Shopping Guide for Home Appliances"
+          },
+          {
+            "level": "H3",
+            "text": "Search"
+          },
+          {
+            "level": "H3",
+            "text": "SearchHounds"
+          }
+        ],
+        "service_areas": []
+      },
+      "yelp_data": {
+        "name": "Appliance Repair Vancouver",
+        "yelp_url": "https://www.yelp.com/biz/appliance-repair-vancouver-vancouver",
+        "scraped_at": "2026-03-15T05:15:00.891180",
+        "rating": null,
+        "review_count": null,
+        "top_reviews": []
+      }
+    },
+    {
+      "key": "appliance-service-master",
+      "name": "Appliance Service Master",
+      "scraped_at": "2026-03-15T05:15:03.575304",
+      "google_data": {
+        "search_term": "Appliance Service Master Vancouver",
+        "scraped_at": "2026-03-15T05:15:07.302842",
+        "rating": 193.0,
+        "review_count": null,
+        "highlights": []
+      },
+      "website_data": {
+        "name": "Appliance Service Master",
+        "url": "https://www.applianceservicemaster.ca/",
+        "scraped_at": "2026-03-15T05:15:07.307698",
+        "page_title": "",
+        "meta_description": "",
+        "services": [],
+        "pricing_mentions": [],
+        "contact_info": {},
+        "headings": [],
+        "service_areas": [],
+        "error": "All connection attempts failed"
+      }
+    },
+    {
+      "key": "surrey-appliance-repair",
+      "name": "Surrey Appliance Repair",
+      "scraped_at": "2026-03-15T05:15:14.328981",
+      "google_data": {
+        "search_term": "Surrey Appliance Repair",
+        "scraped_at": "2026-03-15T05:15:18.439889",
+        "rating": null,
+        "review_count": null,
+        "highlights": []
+      },
+      "website_data": {
+        "name": "Surrey Appliance Repair",
+        "url": "https://www.surreyappliancerepair.ca/",
+        "scraped_at": "2026-03-15T05:15:18.442980",
+        "page_title": "Security Verification",
+        "meta_description": "",
+        "services": [],
+        "pricing_mentions": [],
+        "contact_info": {},
+        "headings": [],
+        "service_areas": []
+      }
+    },
+    {
+      "key": "burnaby-appliance-repair",
+      "name": "Burnaby Appliance Repair",
+      "scraped_at": "2026-03-15T05:15:21.768995",
+      "google_data": {
+        "search_term": "Burnaby Appliance Repair",
+        "scraped_at": "2026-03-15T05:15:25.498426",
+        "rating": null,
+        "review_count": null,
+        "highlights": []
+      },
+      "website_data": {
+        "name": "Burnaby Appliance Repair",
+        "url": "https://www.burnabyappliancerepair.ca/",
+        "scraped_at": "2026-03-15T05:15:25.501844",
+        "page_title": "Appliance Repairs Burnaby \ud83e\udd47 - Commercial & Home Appliance Repair Burnaby",
+        "meta_description": "For home and commercial Appliance Repairs in Burnaby hire \u2705  experts. We offer kitchen appliances repair, refrigerator repair, washing machine repair & refrigerator repair. Give us a call at \ud83d\udd7f (604) 332-1787.",
+        "services": [],
+        "pricing_mentions": [],
+        "contact_info": {
+          "phone": "(604) 332-1787",
+          "email": "info@burnabyappliancerepair.ca"
+        },
+        "headings": [
+          {
+            "level": "H1",
+            "text": "Appliance Repairs in Burnaby, British Columbia"
+          },
+          {
+            "level": "H2",
+            "text": "Burnaby Appliance Repair You Can Trust!"
+          },
+          {
+            "level": "H2",
+            "text": "Washing Machine Repair in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Commercial Appliances Repair in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Dryer Installation in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Gas Stove Repair in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Refrigerator Installation in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Kitchen Appliances Repair in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Microwave Installation in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Oven Repair in\u00a0Burnaby"
+          },
+          {
+            "level": "H2",
+            "text": "Stove Installation in\u00a0Burnaby"
+          },
+          {
+            "level": "H3",
+            "text": "Smith Jordan"
+          },
+          {
+            "level": "H3",
+            "text": "Alex Stoke"
+          },
+          {
+            "level": "H3",
+            "text": "John"
+          },
+          {
+            "level": "H3",
+            "text": "Smith Jordan"
+          },
+          {
+            "level": "H3",
+            "text": "Alex Stoke"
+          },
+          {
+            "level": "H3",
+            "text": "John"
+          },
+          {
+            "level": "H3",
+            "text": "Smith Jordan"
+          },
+          {
+            "level": "H3",
+            "text": "Alex Stoke"
+          },
+          {
+            "level": "H3",
+            "text": "John"
+          },
+          {
+            "level": "H3",
+            "text": "Contact Information"
+          }
+        ],
+        "service_areas": []
+      }
+    }
+  ]
+}
